@@ -1,0 +1,14 @@
+Q5
+
+array_1=['5','2','8']
+array_2=['7','0','1']
+print('5','2','8',sep='')
+print('7','0','1',sep='')
+x=528
+y=701
+print(x*y)
+import math
+sqrt_x=math.sqrt(x)
+sqrt_y=math.sqrt(y)
+print(sqrt_x,sqrt_y)
+print(sqrt_x==sqrt_y)

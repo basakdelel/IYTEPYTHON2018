@@ -1,0 +1,8 @@
+Q4
+
+number_1='324'
+number_2="183"
+x=int(number_1)
+y=int(number_2)
+a=[x,y]
+print(a)

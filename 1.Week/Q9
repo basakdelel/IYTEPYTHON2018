@@ -1,0 +1,5 @@
+Q9
+
+text="""
+As described previously, the captured views provide us two important data: 1) silhouttes of the object from different views,which define the visiual hull of the object, and 2) ray-ray correspondences before and after rays intersecting with the object, which correlate to light refraction paths and surface geometry details.
+""")

@@ -1,0 +1,5 @@
+Q7
+
+array=['Ahmet','Yılmaz']
+print('Ahmet','Yılmaz')
+string='Ahmet Yılmaz'
